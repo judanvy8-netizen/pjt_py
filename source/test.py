@@ -1,2 +1,2 @@
 def welcome():
-    print('Hello write')
+    print('Hello writefile!')
